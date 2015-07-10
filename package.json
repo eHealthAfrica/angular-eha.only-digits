@@ -1,6 +1,6 @@
 {
   "name": "angular-eha.only-digits",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Angular directive to only allow digits in an input field",
   "main": "dist/only-digits.js",
   "scripts": {
