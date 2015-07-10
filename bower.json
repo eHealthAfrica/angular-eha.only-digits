@@ -1,0 +1,35 @@
+{
+  "name": "angular-eha.only-digits",
+  "version": "1.0.0",
+  "description": "Angular directive to only allow digits in an input field",
+  "authors": [
+    "Till Reitemeyer (http://github.com/skoni)",
+    "Robin Mehner <robin@coding-robin.de> (http://coding-robin.de)",
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  },
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "directive",
+    "digits",
+    "input",
+    "integer"
+  ],
+  "main": "dist/only-digits.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eHealthAfrica/angular-eha.only-digits"
+  },
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
